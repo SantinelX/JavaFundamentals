@@ -48,7 +48,7 @@ public class Weekend2 {
            System.out.println(bidArray[i]);
            System.out.println();
            for (int j =0; j< bidArray.length;j++){
-              // System.out.println(bidArray[j]);
+              //5 System.out.println(bidArray[j]);
            }
        }
 
